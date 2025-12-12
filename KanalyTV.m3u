@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/922/1IkOpr.png" ,JEDNOTKA
+https://list.iptvcat.com/my_list/s/aa02da7f142198f708abb54eafb8dc2b.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/924/ogFkZG.png" ,DVOJKA
+http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/42759
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/4610/bmlTpx.png" ,MARKIZA
+http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7235/fdE6lW.png" ,JOJ 
+https://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7235/fdE6lW.png" ,JOJ PLUS
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/923/ZPiPhV.jpg" ,JOJ FAMILY
+https://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/923/ZPiPhV.jpg" ,JOJ CINEMA
+https://list.iptvcat.com/my_list/s/f885d1a2d602b6d6a167e54f3a0192ad.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/403x403q90/923/l8tfnk.jpg" ,WAU
+https://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/923/ZPiPhV.jpg" ,DOMA
+http://nomorecable.xyz:80/hahaiptv-/079652/49647
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/600x385q90/922/UGoQTz.png" ,DAJTO
+https://list.iptvcat.com/my_list/s/8bd8c800d82993cad4d137a226a78f7b.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/2899/RXwjhM.png" ,PRIMA
+http://103.194.169.171:8282/CZ_PRIMA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x339q90/923/Vrg7iN.png" ,PRIMA COOL
+http://103.194.169.171:8282/CZ_PRIMA_COOL_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA LOVE
+http://103.194.169.171:8282/CZ_PRIMA_LOVE/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1015x316q90/922/esyErj.png" ,PRIMA MAX
+http://103.194.169.171:8282/CZ_PRIMA_MAX_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1439/PnkKTn.jpg" ,PRIMA ZOOM
+http://103.194.169.171:8282/CZ_PRIMA_ZOOM_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/200x200q90/923/j6Z18i.png" ,NOVA
+http://103.194.169.171:8282/CZ_NOVA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/513x207q90/922/1nIPzD.png" ,NOVA 2
+http://103.194.169.171:8282/CZ_NOVA2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/513x207q90/922/1nIPzD.png" ,NOVA ACTION
+http://103.194.169.171:8282/CZ_NOVA_ACTION_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/513x207q90/922/1nIPzD.png" ,NOVA GOLD
+http://103.194.169.171:8282/CZ_NOVA_GOLD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/256x256q90/923/Guo9BU.png" ,NOVA CINEMA
+http://103.194.169.171:8282/CZ_NOVA_CINEMA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/800x330q90/923/viGVNX.png" ,HBO
+https://list.iptvcat.com/my_list/s/aed444188d6787e13dce78678bc8118d.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9166/zZaTpL.png" ,HBO 2
+https://list.iptvcat.com/my_list/s/693b92986203e04196ba0074f6095f49.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/4313/026thm.jpg" ,HBO 3
+https://list.iptvcat.com/my_list/s/7edabf75eb05f29d3bdedb84acb3d49d.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,FILMBOX
+http://103.194.169.171:8282/CZ_FILMBOX/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,FILMBOX EXTRA
+http://103.194.169.171:8282/CZ_FILMBOX_EXTRA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,FILMBOX Family
+http://103.194.169.171:8282/CZ_FILMBOX_FAMILY/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,FILMBOX PLUS
+https://list.iptvcat.com/my_list/s/f1dcfb6c35f42e35666fca65b11c87eb.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x168q90/923/9os1cr.png" ,FILMBOX PREMIUM
+http://103.194.169.171:8282/CZ_FILMBOX_PREMIUM/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7019/ix6Njg.png" ,AMC
+http://103.194.169.171:8282/CZ_AMC/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9527/8oPuH2.png" ,FILM CS
+http://103.194.169.171:8282/CZ_CS_FILM/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9527/8oPuH2.png" ,FILM+
+http://103.194.169.171:8282/CZ_FILM_PLUS/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/6090/9YaIhZ.png" ,AXN BLACK
+http://103.194.169.171:8282/CZ_AXN/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/6573/w9Dv11.png" ,AXN WHITE
+http://103.194.169.171:8282/CZ_AXN_BLACK/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/405/I4g84s.png" ,BARRANDOV FILM
+http://103.194.169.171:8282/CZ_BARRANDOV_KRIMI_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0,CZ_SKYLINK7_HD
+http://103.194.169.171:8282/CZ_SKYLINK7_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0,CZ_CINEMAX
+http://103.194.169.171:8282/CZ_CINEMAX/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0,CZ_CINEMAX2
+http://103.194.169.171:8282/CZ_CINEMAX2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/9194/ASFkf4.png" ,SPECTRU
+http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/42796
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/2587/Fl9tLv.png" ,RELAX
+http://103.194.169.171:8282/CZ_RELAX/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/5141/9N0mPV.png" ,SPORT 1
+http://103.194.169.171:8282/CZ_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7343/diK41d.png" ,SPORT 2
+http://103.194.169.171:8282/CZ_SPORT2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9775/0Skrqy.jpg" ,EUROSPORT 1
+http://103.194.169.171:8282/CZ_SPORT1/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/6449/0bYrwK.jpg" ,EUROSPORT 2
+http://103.194.169.171:8282/CZ_AUTOMOTORSPORT_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/6449/0bYrwK.jpg" ,ORANGE SPORT
+https://iptvcat.com/my_list/s/746f83515359f81b7050bb914b6e534e.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7446/zyfjUK.png" ,DISNEY CHANNEL 
+http://103.194.169.171:8282/CZ_DISNEY_CHANNEL/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-id="ČT1HD.cz" tvg-name="ČT1 HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="",ČT1 HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/121563
+#EXTINF:-1 tvg-id="ČT2HD.cz" tvg-name="ČT1 HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="",2 HD CZ
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/170008
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/387x257q90/924/C54jIl.png" ,RAJ TV
+http://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/qYgPb4.png" ,JOJKO
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/923/lAxj59.jpg" ,BALKANIA MUSIC
+rtsp://stream.teracomm.bg/balkanika?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/7646/DgxKTG.png" ,BG MUSIC CHANNEL
+https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/KxqJWQ.jpg" ,BG MUSIC
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/728x508q90/922/LJoSOn.jpg" ,PLANETA
+http://listamy.com:8080/lola/lola/305726
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/7294/5D0Jcb.jpg" ,PLANETA FOLK
+http://listamy.com:8080/lola/lola/305727
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dT9B9I.jpg" ,M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/922/79sabi.png" ,OČKO
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/512x288q90/924/P4lCCK.jpg" ,OČKO EXPRES
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/356x200q90/922/dPRAW7.jpg" ,OČKO GOLD
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/520x520q90/923/tQFbqR.jpg" ,STAR
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/840x382q90/924/6GDzSU.jpg" ,RETRO
+http://103.194.169.171:8282/CZ_RETRO_MUSIC/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/200x200q90/922/CDQOMi.png" ,SENZI
+http://109.74.144.130/live/senzitest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/324x155q90/923/73b19h.png" ,ŠLAGER
+http://103.194.169.171:8282/CZ_SLAGR_TV/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/900x480q90/923/nKdtq1.jpg" ,FESHON TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/350x300q90/924/BinfFi.jpg" ,TRAVEL TV BG
+https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9195/NPsNIl.png" ,PARK TV
+http://80.94.54.42/parktv/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/5531/OO0Nn9.png" ,HUNTER TV
+http://www.huntertv.cz/live/4-playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/225x225q90/923/COYkJ8.png" ,DISCOVERY
+http://bazarhd.online:80/307210113622/307210113622/84628?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/3940/IMEkri.jpg" ,MNAM TV
+https://list.iptvcat.com/my_list/s/0b0cec5dc51e0478e19e5455f02e963d.m3u8
+#EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="XXX",Extasy TV HD
+http://103.194.169.171:8282/CZ_BLUE_HUSTLER/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
